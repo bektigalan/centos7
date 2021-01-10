@@ -1,0 +1,7 @@
+halo saya adalah file tes
+
+new line
+
+this is comment
+
+new
